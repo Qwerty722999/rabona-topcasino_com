@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://rabona-topcasino.com /sitemap_index.xml
